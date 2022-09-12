@@ -1,2 +1,1 @@
-# crud-node-firebase
- CRUD node.js + firebase tutorial
+These are my learnings on NodeJs using Firebase database
